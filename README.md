@@ -16,14 +16,14 @@
    two wheelers buyers,sellers,and enthusiasts looking for complete vehicle purchasing ecosystem
 
   # Team name:creator
-  1.B.pravallika
+       1.B.pravallika
        Role:HTML code Development
-   2.B.vishnupriya
+       2.B.vishnupriya
        Role:Adding CSS to the HTML  code for Designs
-   3.J.pavani sri
+       3.J.pavani sri
        Role:JAVASCRIPT,Developed images using react
-   4.N.Harshini
+       4.N.Harshini
        Role:PPT presentation
-   5.G.Meghana
+       5.G.Meghana
        Role:Debugging code
               
